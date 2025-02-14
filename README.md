@@ -4,9 +4,9 @@ Trivia Challenge is a question-and-answer game where players can customize their
 
 ![](https://github.com/salvadorvasqz/js-mouse-follow-animation/blob/main/static/trivia_1.gif?raw=true)
 
-<img src="https://github.com/salvadorvasqz/js-mouse-follow-animation/blob/main/static/trivia_1.PNG?raw=true" alt="Demo 1" style="width: 100%;">
+<img src="https://github.com/salvadorvasqz/nextjs-trivia/blob/main/static/trivia_1.PNG?raw=true" alt="Demo 1" style="width: 100%;">
 
-<img src="https://github.com/salvadorvasqz/js-mouse-follow-animation/blob/main/static/trivia_2.PNG?raw=true" alt="Demo 2" style="width: 100%;">
+<img src="https://github.com/salvadorvasqz/nextjs-trivia/blob/main/static/trivia_2.PNG?raw=true" alt="Demo 2" style="width: 100%;">
 
 ## Demo
 
